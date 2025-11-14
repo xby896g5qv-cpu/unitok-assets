@@ -1,8 +1,8 @@
 {
-  "name": "UNITOK List",
+  "name": "UNITOK Token List",
   "logoURI": "https://raw.githubusercontent.com/xby896g5qv-cpu/unitok-assets/main/assets/unitokphoto.png",
-  "keywords": ["unitok"],
-  "timestamp": "2025-11-14T00:00:00+00:00",
+  "keywords": ["unitok", "token", "unit"],
+  "timestamp": "2025-01-01T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 56,
