@@ -1,0 +1,20 @@
+{
+  "name": "UNITOK Token List",
+  "logoURI": "https://raw.githubusercontent.com/xby896g5qv-cpu/unitok-assets/main/assets/unitokphoto.png",
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x2714cB487a398a4042b4Ff9A85B3E02a52A1F73F",
+      "name": "UNITOK",
+      "symbol": "UNIT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/xby896g5qv-cpu/unitok-assets/main/assets/unitokphoto.png"
+    }
+  ]
+}
